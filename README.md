@@ -9,6 +9,9 @@ Paper reproduction code record！
 |Weight Data|[Not All Unlabeled Data are Equal:Learning to Weight Data in Semi-supervised Learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/f7ac67a9aa8d255282de7d11391e1b69-Paper.pdf)|NIPS |2020|[python](https://github.com/jason718/semi-sup)|2024.5.28
 |RDIA|[Resolving Training Biases via Influence-based Data Relabeling](https://openreview.net/forum?id=EskfH0bwNVn)|ICLR|2022|[python](https://github.com/Viperccc/RDIA)|2023.5.31
 |influence|  |  |  |[pytorch](https://github.com/alstonlo/torch-influence/tree/main?tab=readme-ov-file)|20223.6.12
+|Data Augmentation|[Unsupervised Data Augmentationfor Consistency Training](https://arxiv.org/abs/1904.12848) | NIPS | 2020 |[pytorch]((https://github.com/google-research/uda))|20223.6.15
+|UNCERTAINTY-AWARE|[IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2101.06329)|ICLR|2021|[pytorch](https://github.com/nayeemrizve/ups))|20223.6.16
+
 
 
  
