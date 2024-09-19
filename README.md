@@ -11,8 +11,7 @@ Paper reproduction code record！
 |influence|  |  |  |[pytorch](https://github.com/alstonlo/torch-influence/tree/main?tab=readme-ov-file)|20223.6.12
 |Data Augmentation|[Unsupervised Data Augmentationfor Consistency Training](https://arxiv.org/abs/1904.12848) | NIPS | 2020 |[pytorch](https://github.com/google-research/uda)|20223.6.15
 |UNCERTAINTY-AWARE|[IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2101.06329)|ICLR|2021|[pytorch](https://github.com/nayeemrizve/ups)|20223.6.16
-|TransUNet|[TransUNet: Rethinking the U-Net architecture design for medical image
-segmentation through the lens of transformers](https://arxiv.org/pdf/2101.06329)|MIA|2024|[pytorch](https://github.com/nayeemrizve/ups)|20223.6.16
+|TransUNet|https://arxiv.org/pdf/2101.06329|MIA|2024|[pytorch](https://github.com/nayeemrizve/ups)|20223.6.16
 
 
 
