@@ -17,6 +17,9 @@ Paper reproduction code record！
 |AFCM|[Alias-Free Co-modulated Network for Cross-Modality Synthesis and Super-Resolution of MR Images](https://www.researchgate.net/profile/Lichi-Zhang/publication/374341880_Alias-Free_Co-modulated_Network_for_Cross-Modality_Synthesis_and_Super-Resolution_of_MR_Images/links/652ea3657d0cf66a6734a188/Alias-Free-Co-modulated-Network-for-Cross-Modality-Synthesis-and-Super-Resolution-of-MR-Images.pdf)|MICCAI|2024|[pytorch](https://github.com/zhiyuns/AFCM)|2024.10.22
 |BMA|[Multi-modal contrastive mutual learning and pseudo-label re-learning for semi-supervised medical image segmentation](https://zhenghuaxu.info/files/2023_MedIA.pdf)|MIA|2023|---|2024.10.30
 |Brain-Tumors-Segmentation|---|---|2023|[pytorch](https://Brain-Tumors-Segmentationgithub.com/faizan1234567/Brain-Tumors-Segmentation)|2024.11.5
+|Swin UNETR|[Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images](https://arxiv.org/pdf/2201.01266)|MICCAI|2021|[pytorch]([https://github.com/Zirui0623/A2FSeg](https://github.com/Project-MONAI/research-contributions))|2024.11.11
+
+
 
 
 
