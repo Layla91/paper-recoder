@@ -13,6 +13,12 @@ Paper reproduction code record！
 |UNCERTAINTY-AWARE|[IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING](https://arxiv.org/pdf/2101.06329)|ICLR|2021|[pytorch](https://github.com/nayeemrizve/ups)|20223.6.16
 |TransUNet|[TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers](https://www.sciencedirect.com/science/article/pii/S1361841524002056)|MIA|2024|[pytorch](https://github.com/Beckschen/TransUNet)|20223.9.17
 |SAM Adapter|[Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.12620)|---|2024|[pytorch](https://github.com/MedicineToken/Medical-SAM-Adapter)|20223.9.19
+|A2FSeg|[A2FSeg: Adaptive Multi-modal Fusion Network for Medical Image Segmentation](https://cs.sjtu.edu.cn/~yihong/papers/A2FSeg_MICCAI2023.pdf)|MICCAI|2024|[pytorch](https://github.com/Zirui0623/A2FSeg)|2024.10.16
+|AFCM|[Alias-Free Co-modulated Network for Cross-Modality Synthesis and Super-Resolution of MR Images](https://www.researchgate.net/profile/Lichi-Zhang/publication/374341880_Alias-Free_Co-modulated_Network_for_Cross-Modality_Synthesis_and_Super-Resolution_of_MR_Images/links/652ea3657d0cf66a6734a188/Alias-Free-Co-modulated-Network-for-Cross-Modality-Synthesis-and-Super-Resolution-of-MR-Images.pdf)|MICCAI|2024|[pytorch](https://github.com/zhiyuns/AFCM)|2024.10.22
+|BMA|[Multi-modal contrastive mutual learning and pseudo-label re-learning for semi-supervised medical image segmentation](https://zhenghuaxu.info/files/2023_MedIA.pdf)|MIA|2023|---|2024.10.30
+|Brain-Tumors-Segmentation|---|---|2023|[pytorch](https://Brain-Tumors-Segmentationgithub.com/faizan1234567/Brain-Tumors-Segmentation)|2024.11.5
+
+
 
 
 
